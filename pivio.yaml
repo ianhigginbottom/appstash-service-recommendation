@@ -6,6 +6,7 @@ description: "Recommendation service"
 vcsroot: "https://travis-ci.org/ianhigginbottom/appstash-service-recommendation/"
 lifecycle: production
 tags:
+  - PIVIO
   - Java10
   - ElasticSearch
   - AI
